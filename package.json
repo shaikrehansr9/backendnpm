@@ -6,6 +6,7 @@
 	"author": "Jane Doe",
 	"description": "A project that does something awesome",
 	"keywords": [ "descriptive", "related", "words", "freecodecamp"],
+	"license": "MIT",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"

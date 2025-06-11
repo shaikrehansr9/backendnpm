@@ -5,7 +5,7 @@
 	},
 	"author": "Jane Doe",
 	"description": "A project that does something awesome",
-	"keywords": [ "descriptive", "related", "words" ],
+	"keywords": [ "descriptive", "related", "words", "freecodecamp"],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
